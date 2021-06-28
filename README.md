@@ -1,4 +1,4 @@
-# 0624_PR
+# 0624_PR + 0628_PR
 
 ### 프라이머리  화면 전환하기
 
@@ -43,3 +43,50 @@ imvert로 반전 가능
 
 모드 따라  흑백 / 투명도로  트랙 입혀짐
 reverse로 반전 가능
+
+
+
+
+## 0628
+
+### 색상보정
+
+![image](https://user-images.githubusercontent.com/80494367/123564033-b85b9800-d7f2-11eb-9c54-5d7306eb4021.png)
+
+#####  Lumetric Color  색보정
+![image](https://user-images.githubusercontent.com/80494367/123564081-ee008100-d7f2-11eb-8c2b-5b57b432327a.png)
+
+
+![image](https://user-images.githubusercontent.com/80494367/123564331-07ee9380-d7f4-11eb-850e-b4225c873ed5.png)
+
+basic Correction
+색 온도 드 기본 색 조절 / Tore 빛의 노출도
+
+![image](https://user-images.githubusercontent.com/80494367/123564367-2a80ac80-d7f4-11eb-9cea-06116524c480.png)
+
+Creative
+색 조정
+
+![image](https://user-images.githubusercontent.com/80494367/123564392-4a17d500-d7f4-11eb-8d99-dd225020b86e.png)
+
+Curve
+빛의 밝기 등  광 조절
+
+
+![image](https://user-images.githubusercontent.com/80494367/123564529-bdb9e200-d7f4-11eb-9dcc-3abfa4ecdffc.png)
+
+
+Vignetic
+화면 테두리 등 화면 조절
+
+
+![image](https://user-images.githubusercontent.com/80494367/123565170-ee028000-d7f6-11eb-8400-4aee44f271ae.png)
+
+posterize Time  프레임당 변화
+
+
+![image](https://user-images.githubusercontent.com/80494367/123569761-eac0c180-d801-11eb-8345-3533abac2810.png)
+
+크로마키
+ultra key 컬러를  원하는 색깔의 프린트로
+
